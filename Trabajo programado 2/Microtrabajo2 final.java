@@ -1,7 +1,7 @@
 import java.util.Scanner;
 import javax.swing.JFrame;
 import javax.swing.JOptionPane;
-
+//segundo
 public class Microtrabajo2 {
 	public static void main(String[] args) {
 		Scanner input = new Scanner(System.in);
